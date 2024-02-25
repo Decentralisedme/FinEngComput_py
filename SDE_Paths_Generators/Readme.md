@@ -12,7 +12,10 @@ Underlying prices(i.e.stocks Prices) are random and we need probabilistic models
 
 The main function to generate GBM paths is in scripts.py file, the function is then imported in other files when needed
 
-The file would contain the description of the process
+The file would contain the description of the different processes.
+
+When GBM_ABM_Paths.py is run the following two windows will pop up:
+![alt text](Images/BM_Paths.png)
 
 ### Reference:
 - LechGrzelak Computetional Finance Course: https://www.youtube.com/watch?v=MhmZaHWGWHc&list=PL6zzGYGhbWrPaI-op1UfNl0uDglxdkaOB&index=4
